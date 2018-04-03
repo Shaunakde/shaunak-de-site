@@ -60,8 +60,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "Classification of Natural Areas in Multifrequency PolSAR Data"
+#image = "headers/bubbles-wide.jpg"
+#caption = "Classification of Natural Areas in Multifrequency PolSAR Data"
 
 +++
 

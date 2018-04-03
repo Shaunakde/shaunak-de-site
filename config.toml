@@ -10,9 +10,9 @@ title = "Shaunak De"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 -- Shaunak De"
 
-theme = "academic"
+theme = "academic-sd"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Shaunak De"
@@ -55,9 +55,9 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Indian Institute of Technology Bombay", url = "" } ]
+  organizations = [ { name = "Indian Institute of Technology Bombay", url = "http://www.iitb.ac.in/" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "shaunakde@gmail.com"
   address = "104 MRS Lab, CSRE, IIT Bombay, Powai, Mumbai 400076"
@@ -105,10 +105,10 @@ defaultContentLanguageInSubdir = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
@@ -227,12 +227,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.in/citations?user=KINtCIgAAAAJ"
+    link = "//scholar.google.co.in/citations?user=KINtCIgAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/shaunakde"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0002-2365-7756"
 
 
 # Navigation Links
