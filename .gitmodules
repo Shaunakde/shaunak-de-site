@@ -1,0 +1,3 @@
+[submodule "themes/academic-sd"]
+	path = themes/academic-sd
+	url = https://github.com/Shaunakde/hugo-academic.git
