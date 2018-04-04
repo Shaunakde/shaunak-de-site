@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Shaunak De</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Shaunak De</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 -- Shaunak De</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting the popularity of instagram posts for a lifestyle magazine using deep learning</title>
+      <link>/publication/google_import/de2017predicting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/de2017predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A learning tool for optical and microwave satellite image processing and analysis</title>
+      <link>/publication/google_import/dashondhi2016learning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/dashondhi2016learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An unsupervised hidden markov random field based segmentation of polarimetric SAR images</title>
+      <link>/publication/google_import/banerjee2016unsupervised/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/banerjee2016unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Target Decomposition Technique for Compact Polarimetric SAR Data</title>
+      <link>/publication/google_import/bhattacharya2015new/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/bhattacharya2015new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban classification using PolSAR data and deep learning</title>
+      <link>/publication/google_import/de2015urban/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/de2015urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crop classification using RISAT-1 hybrid polarimetric SAR data</title>
+      <link>/publication/google_import/de2014crop/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/de2014crop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orientation angle estimation from PolSAR data using a stochastic distance</title>
+      <link>/publication/google_import/bhattacharya2014orientation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/bhattacharya2014orientation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snow wetness estimation from dual polarimetric coherent TerraSAR-X data</title>
+      <link>/publication/google_import/bhattacharya2014snow/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/bhattacharya2014snow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable importance and random forest classification using RADARSAT-2 PolSAR data</title>
+      <link>/publication/google_import/hariharan2014variable/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/hariharan2014variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of RISAT-1 hybrid polarimetric data for various land features</title>
+      <link>/publication/google_import/turkar2013classification/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/turkar2013classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of classification accuracy for RISAT-1 compact polarimetric data for various land-covers</title>
+      <link>/publication/google_import/turkar2013comparative/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/turkar2013comparative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

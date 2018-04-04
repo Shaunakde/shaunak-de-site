@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Shaunak De</title>
+    <link>/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Shaunak De</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 -- Shaunak De</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Verisimilitude of Veracity</title>
+      <link>/post/verisimilitude-veracity/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/post/verisimilitude-veracity/</guid>
+      <description>The phrase “it’s not an exact science” often surprises me, mainly because nothing probably is. To an outside observer it may seem to be a craft of precision, but its practitioners know that if anything, science and engineering is fundamentally comprised of abstraction and approximation. The greatest engineering marvels, the most breathtaking scientific breakthroughs are nothing but an approximation with tolerances. A probability, that in all sense of practicality, the stated hypothesis is true.</description>
+    </item>
+    
+  </channel>
+</rss>

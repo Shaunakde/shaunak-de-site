@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Shaunak De</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Shaunak De</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 -- Shaunak De</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Change detection in polarimetric SAR images using a geodesic distance between scattering mechanisms</title>
+      <link>/publication/google_import/ratha2017change/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/ratha2017change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local contrast based adaptive SAR speckle filter</title>
+      <link>/publication/google_import/shitole2017local/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/shitole2017local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the popularity of instagram posts for a lifestyle magazine using deep learning</title>
+      <link>/publication/google_import/de2017predicting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/de2017predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A learning tool for optical and microwave satellite image processing and analysis</title>
+      <link>/publication/google_import/dashondhi2016learning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/dashondhi2016learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An unsupervised hidden markov random field based segmentation of polarimetric SAR images</title>
+      <link>/publication/google_import/banerjee2016unsupervised/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/banerjee2016unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Target Decomposition Technique for Compact Polarimetric SAR Data</title>
+      <link>/publication/google_import/bhattacharya2015new/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/bhattacharya2015new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMSE based seed selection in IDAN speckle filter with point target preservation</title>
+      <link>/publication/google_import/shitole2015mmse/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/shitole2015mmse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modifying the Yamaguchi four-component decomposition scattering powers using a stochastic distance</title>
+      <link>/publication/google_import/bhattacharya2015modifying/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/bhattacharya2015modifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote estimation of dielectric permittivity of lunar surface regolith using compact polarimetric synthetic aperture radar data</title>
+      <link>/publication/google_import/bhattacharya2015remote/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/bhattacharya2015remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection of suitable window size for speckle reduction and deblurring using SOFM in polarimetric SAR images</title>
+      <link>/publication/google_import/shitole2015selection/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/shitole2015selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban classification using PolSAR data and deep learning</title>
+      <link>/publication/google_import/de2015urban/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/de2015urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crop classification using RISAT-1 hybrid polarimetric SAR data</title>
+      <link>/publication/google_import/de2014crop/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/de2014crop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orientation angle estimation from PolSAR data using a stochastic distance</title>
+      <link>/publication/google_import/bhattacharya2014orientation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/bhattacharya2014orientation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snow wetness estimation from dual polarimetric coherent TerraSAR-X data</title>
+      <link>/publication/google_import/bhattacharya2014snow/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/bhattacharya2014snow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable importance and random forest classification using RADARSAT-2 PolSAR data</title>
+      <link>/publication/google_import/hariharan2014variable/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/hariharan2014variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Technique Based on Deep Learning and a Synthetic Target Database for Classification of Urban Areas in PolSAR Data</title>
+      <link>/publication/urban-detection-2018/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/urban-detection-2018/</guid>
+      <description>Further details on your publication can be written here using Markdown for formatting. This text will be displayed on the Publication Detail page.</description>
+    </item>
+    
+    <item>
+      <title>Tensorization of Multifrequency PolSAR Data for Classification Using an Autoencoder Network</title>
+      <link>/publication/crop-classification-2018/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/crop-classification-2018/</guid>
+      <description>Further details on your publication can be written here using Markdown for formatting. This text will be displayed on the Publication Detail page.</description>
+    </item>
+    
+    <item>
+      <title>Classification of RISAT-1 hybrid polarimetric data for various land features</title>
+      <link>/publication/google_import/turkar2013classification/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/turkar2013classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of classification accuracy for RISAT-1 compact polarimetric data for various land-covers</title>
+      <link>/publication/google_import/turkar2013comparative/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/turkar2013comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full and Hybrid Polarimetric SAR Data Analysis for Various Land</title>
+      <link>/publication/google_import/rao2013full/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/rao2013full/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMPARATIVE ANALYSIS OF CLASSIFICATION ACCURACY FOR RISAT-1 HYBRID POLARIMETRIC DATA</title>
+      <link>/publication/google_import/turkarcomparative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/turkarcomparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development for Polarimetric SAR Data Processing: PolSDP</title>
+      <link>/publication/google_import/desoftware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/google_import/desoftware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
